@@ -1,4 +1,3 @@
-class helloworld
 {
     // Your program begins with a call to main().
     // Prints "Hello, World" to the terminal window.
@@ -7,3 +6,4 @@ class helloworld
         System.out.println("Hello World and welcome to java Devops Training");
     }
 }
+
